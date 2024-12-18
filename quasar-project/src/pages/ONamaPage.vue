@@ -2,7 +2,7 @@
   <q-page class="flex flex-center">
     <q-card dark bordered class="bg-grey-9 my-card">
       <q-card-section>
-        <q-img src="https://www.rijeka.hr/wp-content/uploads/2023/12/Nova-knjižnica-4-901x600.jpg">
+        <q-img src="https://www.rijeka.hr/wp-content/uploads/2023/12/Nova-knji%C5%BEnica-4-901x600.jpg">
           <div class="text-h3 text-weight-bolder absolute-bottom text-center">O nama</div>
         </q-img>
       </q-card-section>
